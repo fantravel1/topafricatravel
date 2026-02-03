@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /images/thumbs/
+
+Sitemap: https://topafricatravel.com/sitemap.xml
+
+# TopAfricaTravel.com - Africa, Fully Experienced.
