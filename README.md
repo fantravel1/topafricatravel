@@ -1,2 +1,0 @@
-# topafricatravel
-Top Africa Travel
