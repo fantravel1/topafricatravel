@@ -180,4 +180,124 @@
   <url><loc>https://topafricatravel.com/sw/countries/ghana/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://topafricatravel.com/zh/countries/ghana/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
+  <!-- Countries Index - All Languages -->
+  <url>
+    <loc>https://topafricatravel.com/countries/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topafricatravel.com/countries/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topafricatravel.com/de/countries/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topafricatravel.com/fr/countries/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topafricatravel.com/es/countries/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://topafricatravel.com/sw/countries/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://topafricatravel.com/zh/countries/"/>
+  </url>
+  <url><loc>https://topafricatravel.com/de/countries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://topafricatravel.com/fr/countries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://topafricatravel.com/es/countries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://topafricatravel.com/sw/countries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://topafricatravel.com/zh/countries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- About - All Languages -->
+  <url>
+    <loc>https://topafricatravel.com/about/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topafricatravel.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topafricatravel.com/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topafricatravel.com/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topafricatravel.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://topafricatravel.com/sw/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://topafricatravel.com/zh/about/"/>
+  </url>
+  <url><loc>https://topafricatravel.com/de/about/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://topafricatravel.com/fr/about/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://topafricatravel.com/es/about/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://topafricatravel.com/sw/about/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://topafricatravel.com/zh/about/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Experiences - All Languages -->
+  <url>
+    <loc>https://topafricatravel.com/experiences/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topafricatravel.com/experiences/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topafricatravel.com/de/experiences/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topafricatravel.com/fr/experiences/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topafricatravel.com/es/experiences/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://topafricatravel.com/sw/experiences/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://topafricatravel.com/zh/experiences/"/>
+  </url>
+  <url><loc>https://topafricatravel.com/de/experiences/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/fr/experiences/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/es/experiences/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/sw/experiences/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/zh/experiences/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Itineraries - All Languages -->
+  <url>
+    <loc>https://topafricatravel.com/itineraries/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topafricatravel.com/itineraries/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topafricatravel.com/de/itineraries/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topafricatravel.com/fr/itineraries/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topafricatravel.com/es/itineraries/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://topafricatravel.com/sw/itineraries/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://topafricatravel.com/zh/itineraries/"/>
+  </url>
+  <url><loc>https://topafricatravel.com/de/itineraries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/fr/itineraries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/es/itineraries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/sw/itineraries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://topafricatravel.com/zh/itineraries/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Destinations -->
+  <url>
+    <loc>https://topafricatravel.com/destinations/marrakech/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/cairo/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/nairobi/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/serengeti/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/cape-town/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/dakar/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://topafricatravel.com/destinations/accra/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
